@@ -1,4 +1,6 @@
 def StartScherm():
+  print('my mom')
+  
   pass
 def LevelOne():
   pass
