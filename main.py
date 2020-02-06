@@ -3,8 +3,10 @@ def StartScherm():
   
   pass
 def LevelOne():
+  print('your dad')
   pass
 def LevelTwo():
+  print('their niece')
   pass
 
 StartScherm()
