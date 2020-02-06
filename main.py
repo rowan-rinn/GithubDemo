@@ -8,6 +8,8 @@ def LevelOne():
 def LevelTwo():
   print('their niece')
   pass
+def levelThree():
+  pass
 
 StartScherm()
 LevelOne()
